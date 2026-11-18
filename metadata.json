@@ -1,0 +1,11 @@
+{
+  "name": "CivicSphere AI",
+  "description": "Citizen-first AI civic engagement and accessible digital public-service ecosystem for Bangladesh, featuring Sphere AI, SignTalk BdSL 3D interpreter, Braille & Eye-Gaze accessibility, Bangladesh 64-district map, digital democracy, legal aid, and transparency rankings.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
